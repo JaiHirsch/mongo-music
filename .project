@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>mongo-music</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>Like_Popeye_64kb.mp3</name>
+			<type>1</type>
+			<location>/Users/jaihirsch/Documents/workspace/mongo-music/Like_Popeye_64kb.mp3</location>
+		</link>
+	</linkedResources>
+</projectDescription>
